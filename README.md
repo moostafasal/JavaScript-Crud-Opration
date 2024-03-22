@@ -14,9 +14,20 @@ A simple web application for managing books.
 - HTML/CSS/JavaScript
 - Local Storage for data persistence
 
-## Usage
 
-1. Clone the repository:
+	
 
-   ```bash
-   git clone https://github.com/your-username/book-management-app.git
+
+    
+
+
+	
+
+			
+
+				
+				
+			
+
+	
+
