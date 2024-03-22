@@ -7,7 +7,6 @@ A simple web application for managing books.
 - Add new books with details like name, publish date, price, author name, and author email.
 - Edit existing books.
 - Delete books.
-- Search books by name.
 - View a table of all books.
 
 ## Technologies Used
